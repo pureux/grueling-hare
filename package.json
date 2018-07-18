@@ -1,0 +1,34 @@
+{
+    "name": "grueling-hare",
+    "displayName": "Grueling Hare",
+    "description": "A light theme with emphasis on steel with burnt orange accents, inspired by the astronaut suits in the Lost in Space reboot TV series",
+    "version": "0.0.1",
+    "publisher": "pureux",
+    "author": {
+        "name": "Tim Franklin"
+    },
+    "engines": {
+        "vscode": "^1.25.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Grueling Hare",
+                "uiTheme": "vs",
+                "path": "./themes/Grueling Hare-color-theme.json"
+            }
+        ]
+    },
+    "bugs": {
+        "url": "https://github.com/pureux/grueling-hare/issues",
+        "email": "pureux@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pureux/grueling-hare.git"
+    },
+    "icon": ""
+}
