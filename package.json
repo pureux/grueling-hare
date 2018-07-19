@@ -30,7 +30,7 @@
         "type": "git",
         "url": "https://github.com/pureux/grueling-hare.git"
     },
-    "icon": "icon.png",
+    "icon": "logo.png",
     "galleryBanner": {
         "color": "#e2e2e2",
         "theme": "light"
