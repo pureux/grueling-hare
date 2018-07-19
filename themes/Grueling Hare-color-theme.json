@@ -19,6 +19,9 @@
 		"editor.findMatchBackground": "#545c6a22",
 		"editor.findMatchHighlightBackground": "#545c6a22",
 		"editor.lineHighlightBackground": "#f0f0f0",
+		"extensionButton.prominentBackground": "#545c6a",
+		"extensionButton.prominentForeground": "#fcfcfc",
+		"extensionButton.prominentHoverBackground": "#363a4c",
 		"focusBorder": "#f2f2f2",
 		"list.activeSelectionBackground": "#545c6a99",
 		"list.activeSelectionForeground": "#ffffff",
@@ -48,6 +51,8 @@
 		"tab.activeForeground": "#AB6526",
 		"tab.inactiveBackground": "#eeeeee",
 		"tab.inactiveForeground": "#545c6a",
+		"textLink.activeForeground": "#AB6526",
+		"textLink.foreground": "#AB6526",
 		"titleBar.activeBackground": "#545c6a",
 		"titleBar.activeForeground": "#f2f2f2",
 		"titleBar.inactiveBackground": "#545c6a99",
@@ -274,7 +279,7 @@
 			"name": "HTML: Tag Names",
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#363a4c"
+				"foreground": "#AB6526"
 			}
 		},
 		{
