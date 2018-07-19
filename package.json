@@ -1,7 +1,7 @@
 {
     "name": "grueling-hare",
     "displayName": "Grueling Hare",
-    "description": "A light theme with emphasis on steel with burnt orange accents, inspired by the astronaut suits in the Lost in Space reboot TV series",
+    "description": "A light theme of white and steel with burnt orange accents",
     "version": "0.0.1",
     "publisher": "pureux",
     "author": {
@@ -30,5 +30,20 @@
         "type": "git",
         "url": "https://github.com/pureux/grueling-hare.git"
     },
-    "icon": ""
+    "icon": "icon.png",
+    "galleryBanner": {
+		"color": "#e2e2e2",
+		"theme": "light"
+    },
+    "keywords": [
+        "grueling",
+        "hare",
+        "space",
+        "lost",
+        "theme",
+        "light",
+        "steel",
+        "orange",
+        "white"
+    ]
 }
