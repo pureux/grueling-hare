@@ -20,4 +20,4 @@ Code is styled intentionally (mostly) bichromatic to make it easier to focus whe
 
 ## Dark
 
-(Screen captures needed)
+(Screen captures coming soon)
