@@ -1,7 +1,7 @@
 {
     "name": "grueling-hare",
     "displayName": "Grueling Hare",
-    "description": "A light theme of white and steel with burnt orange accents",
+    "description": "A set of light and dark themes of white and steel with burnt orange accents",
     "version": "0.3.0",
     "publisher": "pureux",
     "author": {
@@ -16,9 +16,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Grueling Hare",
+                "label": "Grueling Hare Light",
                 "uiTheme": "vs",
                 "path": "./themes/Grueling Hare-color-theme.json"
+            },
+            {
+                "label": "Grueling Hare Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Grueling Hare Dark-color-theme.json"
             }
         ]
     },
@@ -38,6 +43,7 @@
     "keywords": [
         "theme",
         "light",
+        "dark",
         "steel",
         "orange",
         "white"
