@@ -12,6 +12,9 @@ Code is styled intentionally (mostly) bichromatic to make it easier to focus whe
 ### CSS
 ![CSS](examples/grueling-hare-css.png "CSS")
 
+### C#
+![C#](examples/grueling-hare-c#.png "C#")
+
 ### HTML
 ![HTML](examples/grueling-hare-html.png "HTML")
 
@@ -20,4 +23,17 @@ Code is styled intentionally (mostly) bichromatic to make it easier to focus whe
 
 ## Dark
 
-(Screen captures coming soon)
+### IDE
+![IDE](examples/grueling-hare-dark-welcome.png "IDE")
+
+### CSS
+![CSS](examples/grueling-hare-dark-css.png "CSS")
+
+### C#
+![C#](examples/grueling-hare-dark-c#.png "C#")
+
+### HTML
+![HTML](examples/grueling-hare-dark-html.png "HTML")
+
+### JavaScript
+![JavaScript](examples/grueling-hare-dark-js.png "JavaScript")

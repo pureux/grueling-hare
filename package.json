@@ -2,7 +2,7 @@
     "name": "grueling-hare",
     "displayName": "Grueling Hare",
     "description": "A set of light and dark themes of white and steel with burnt orange accents",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "publisher": "pureux",
     "author": {
         "name": "Tim Franklin"
@@ -44,7 +44,13 @@
         "theme",
         "light",
         "dark",
+        "minimal",
+        "simple",
+        "flat",
         "steel",
+        "gray",
+        "grey",
+        "blue",
         "orange",
         "white"
     ]

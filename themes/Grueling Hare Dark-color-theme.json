@@ -7,6 +7,8 @@
 		"activityBar.inactiveForeground": "#414751",
 		"activityBarBadge.background": "#AB6526",
 		"activityBarBadge.foreground": "#ffffff",
+		"badge.background": "#545c6a",
+		"badge.foreground": "#ffffff",
 		"button.background": "#545c6a",
 		"button.foreground": "#ffffff",
 		"button.hoverBackground": "#AB6526",
@@ -14,10 +16,13 @@
 		"dropdown.border": "#545c6a",
 		"dropdown.foreground": "#ffffff",
 		"editor.background": "#414751",
+		"editor.findMatchBackground": "#545c6a22",
+		"editor.findMatchHighlightBackground": "#545c6a22",
         "editor.foreground": "#eeeeee",
-		"editor.lineHighlightBorder": "#545c6a",
-		"badge.background": "#545c6a",
-		"badge.foreground": "#ffffff",
+		"editor.inactiveSelectionBackground": "#545c6a22",
+		"editor.lineHighlightBackground": "#545c6a99",
+		"editor.lineHighlightBorder": "#545c6a99",
+		"editor.selectionBackground": "#545c6a99",
 		"editorBracketMatch.background": "#545c6a",
 		"editorBracketMatch.border": "#545c6a",
 		"editorCodeLens.foreground": "#999999",
@@ -31,11 +36,6 @@
 		"editorWidget.background": "#414751cc",
 		"editorWidget.border": "#545c6a",
 		"editorLink.activeForeground": "#e98931",
-		"editor.selectionBackground": "#545c6a",
-		"editor.inactiveSelectionBackground": "#545c6a22",
-		"editor.findMatchBackground": "#545c6a22",
-		"editor.findMatchHighlightBackground": "#545c6a22",
-		"editor.lineHighlightBackground": "#545c6a",
 		"extensionButton.prominentBackground": "#545c6a",
 		"extensionButton.prominentForeground": "#ffffff",
 		"extensionButton.prominentHoverBackground": "#AB6526",
@@ -82,7 +82,7 @@
 		"tab.inactiveBackground": "#545c6a",
 		"tab.inactiveForeground": "#cccccc",
 		"terminal.foreground": "#ffffff",
-		"terminal.selectionBackground": "#545c6a",
+		"terminal.selectionBackground": "#545c6a99",
 		"textLink.activeForeground": "#e98931",
 		"textLink.foreground": "#9cacc6",
 		"titleBar.activeBackground": "#545c6a",
@@ -410,7 +410,7 @@
 			"name": "Markup: Link",
 			"scope": "meta.link",
 			"settings": {
-				"foreground": "#4B83CD"
+				"foreground": "#e98931"
 			}
 		},
 		{
@@ -434,7 +434,8 @@
 			"name": "Markup: Heading",
 			"scope": "markup.heading",
 			"settings": {
-				"foreground": "#AA3731"
+				"foreground": "#ffffff",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -462,14 +463,14 @@
 			"name": "Markup Quote",
 			"scope": "markup.quote",
 			"settings": {
-				"foreground": "#7A3E9D"
+				"fontStyle": "italic"
 			}
 		},
 		{
 			"name": "Markup Lists",
 			"scope": "markup.list",
 			"settings": {
-				"foreground": "#4B83CD"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
@@ -479,7 +480,7 @@
 				"markup.italic"
 			],
 			"settings": {
-				"foreground": "#448C27"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -487,7 +488,7 @@
 			"scope": "markup.inline.raw",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#e98931"
+				"foreground": "#9cacc6"
 			}
 		},
 		{
