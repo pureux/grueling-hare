@@ -1,11 +1,13 @@
 # Change Log
 
 ## [Unreleased]
-- Markdown colorization
 - More consistent hover state colorization
 - Active find result line colorization
 
-## [1.1.0] - 2019-03-08
+## [1.1.2] - 2019-03-08
+- Fix C# screen capture
+
+## [1.1.1] - 2019-03-08
 - Improved markup styling support
 - Fixed terminal selection color in dark theme
 - Added screen captures for dark theme

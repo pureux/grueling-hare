@@ -13,7 +13,7 @@ Code is styled intentionally (mostly) bichromatic to make it easier to focus whe
 ![CSS](examples/grueling-hare-css.png "CSS")
 
 ### C#
-![C#](examples/grueling-hare-c#.png "C#")
+![CSharp](examples/grueling-hare-csharp.png "CSharp")
 
 ### HTML
 ![HTML](examples/grueling-hare-html.png "HTML")
@@ -30,7 +30,7 @@ Code is styled intentionally (mostly) bichromatic to make it easier to focus whe
 ![CSS](examples/grueling-hare-dark-css.png "CSS")
 
 ### C#
-![C#](examples/grueling-hare-dark-c#.png "C#")
+![CSharp](examples/grueling-hare-dark-csharp.png "CSharp")
 
 ### HTML
 ![HTML](examples/grueling-hare-dark-html.png "HTML")
