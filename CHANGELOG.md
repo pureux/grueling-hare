@@ -1,8 +1,7 @@
 # Change Log
 
-## [Unreleased]
-- More consistent hover state colorization
-- Active find result line colorization
+## [1.1.3] - 2019-03-12
+- Add shield badges and fix CSharp heading in readme
 
 ## [1.1.2] - 2019-03-08
 - Fix C# screen capture
