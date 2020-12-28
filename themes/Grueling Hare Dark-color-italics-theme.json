@@ -16,13 +16,13 @@
 		"dropdown.border": "#545c6a",
 		"dropdown.foreground": "#ffffff",
 		"editor.background": "#414751",
-		"editor.findMatchBackground": "#545c6a22",
-		"editor.findMatchHighlightBackground": "#545c6a22",
+		"editor.findMatchBackground": "#8d8562c2",
+		"editor.findMatchHighlightBackground": "#b47c28e5",
         "editor.foreground": "#eeeeee",
 		"editor.inactiveSelectionBackground": "#545c6a22",
-		"editor.lineHighlightBackground": "#545c6a99",
+		"editor.lineHighlightBackground": "#8f90929c",
 		"editor.lineHighlightBorder": "#545c6a99",
-		"editor.selectionBackground": "#545c6a99",
+		"editor.selectionBackground": "#aeb2b999",
 		"editorBracketMatch.background": "#545c6a",
 		"editorBracketMatch.border": "#545c6a",
 		"editorCodeLens.foreground": "#999999",
@@ -121,6 +121,7 @@
 				"comment.block.documentation"
 			],
 			"settings": {
+				"fontStyle": "italic",
 				"foreground": "#999999"
 			}
 		},
@@ -306,6 +307,7 @@
 			"name": "HTML: Tag Names",
 			"scope": "entity.name.tag",
 			"settings": {
+				"fontStyle": "italic",
 				"foreground": "#e98931"
 			}
 		},
@@ -317,7 +319,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#9cacc6"
+				"foreground": "#71aac0"
 			}
 		},
 		{

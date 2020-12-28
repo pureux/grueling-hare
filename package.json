@@ -24,6 +24,11 @@
                 "label": "Grueling Hare Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Grueling Hare Dark-color-theme.json"
+            },
+            {
+                "label": "Grueling Hare Dark Extra Italics",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Grueling Hare Dark-color-italics-theme.json"
             }
         ]
     },
